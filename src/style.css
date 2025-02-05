@@ -1,0 +1,33 @@
+.header {
+  background-color: rgb(233, 197, 144);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 60px;
+  font-family: "Pacifico", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+h1 {
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: bisque;
+}
